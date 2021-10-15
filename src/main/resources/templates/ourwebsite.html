@@ -4,34 +4,34 @@
 <html lang ="en">
 
 <head>
-<!--
-Name:
-Website layout:
---------------------------------------------------------
-contributers          contact info?    shopping cart    |
-                                                        |
-  -----------------------------------------------       |
-                                                        |
-                 Name          (gradient backgrd?)      |
-  ------------------------------------------------      |
-                          |                             |
-                          |                             |
-                          |             menu slideshow  |
-           simple sentence|                             |
-                          |                             |
-------------------------  |						        |
-                                                        |
-            food pics              quotes               |
-                                                        |
-                   locations                            |
-                                                        |
-                                                        |
-     contact information                                |
-                                                        |
---------------------------------------------------------|
-?* = extra unsure about this
-unsure about anything for layout, nobody collaborating :(
--->
+    <!--
+    Name:
+    Website layout:
+    --------------------------------------------------------
+    contributers          contact info?    shopping cart    |
+                                                            |
+      -----------------------------------------------       |
+                                                            |
+                     Name          (gradient backgrd?)      |
+      ------------------------------------------------      |
+                              |                             |
+                              |                             |
+                              |             menu slideshow  |
+               simple sentence|                             |
+                              |                             |
+    ------------------------  |						        |
+                                                            |
+                food pics              quotes               |
+                                                            |
+                       locations                            |
+                                                            |
+                                                            |
+         contact information                                |
+                                                            |
+    --------------------------------------------------------|
+    ?* = extra unsure about this
+    unsure about anything for layout, nobody collaborating :(
+    -->
 
 
 
@@ -44,8 +44,8 @@ unsure about anything for layout, nobody collaborating :(
     <img id="picture" src="/static/images/flower.jpg" th:src="@{/images/pusdlogo.png}" alt="menu" width="120px" height="120px" >
     <a href="/help"><button class="format">Help</button></a>
     <a href="/menu"><button class="order1" id="position2"> Order</button></a>
-<!--    <a><button class="order1" id="position3">Future Lunch Schedules</button></a>
--->
+    <!--    <a><button class="order1" id="position3">Future Lunch Schedules</button></a>
+    -->
     <!--create this about us page later-->
     <a href="/aboutus"><button class="order1" id="position3"> About Us</button></a>
     <!--what other buttons should we add
@@ -55,7 +55,7 @@ unsure about anything for layout, nobody collaborating :(
 
 <!--this for the logo and name of website-->
 <div id ="gradient" >
-        <p class ="title" >Del Norte Food Ordering Service</p>
+    <p class ="title" >Del Norte Food Ordering Service</p>
 </div>
 
 <!--menu stuffs -->
@@ -77,7 +77,7 @@ unsure about anything for layout, nobody collaborating :(
 
     <div class="mySlides fade">
 
-          <img   class="dimensions" src="/static/images/DNBeverages.jpg" th:src="@{/images/DNBeverages.jpg}" alt="menu">
+        <img   class="dimensions" src="/static/images/DNBeverages.jpg" th:src="@{/images/DNBeverages.jpg}" alt="menu">
 
     </div>
 
@@ -124,7 +124,7 @@ unsure about anything for layout, nobody collaborating :(
 </script>
 
 <!--images + text-->
-<img src="/static/images/yummy.jpg" th:src="@{/images/pizza.jpg}" alt="menu" height="800px" width="55%" id="position8">
+<img src="/static/images/yummy.jpg" th:src="@{/images/kideat.jpg}" alt="menu" height="800px" width="55%" id="position8">
 <div style="text-align:center" id="position9" >
     <h1>Want to Skip Lunch Lines?</h1>
     <p  style="font-family: Georgia; font-size:20px;">Order in advance here to get the most convenient and smooth lunch line experiences with just the click of a button.</p>
@@ -171,61 +171,61 @@ unsure about anything for layout, nobody collaborating :(
 
 
 <div class="info">
-        <p>Developers:</p>
-        <p>Harry</p>
-        <button id="spec">Flora</button>
-        <p>Yajat</p>
-        <p>Devam</p>
-        <p>Kyle</p>
-<div id="position10">
+    <p>Developers:</p>
+    <p>Harry</p>
+    <button id="spec">Flora</button>
+    <p>Yajat</p>
+    <p>Devam</p>
+    <p>Kyle</p>
+    <div id="position10">
         <p>Contact Flora for any problems,<br> <br>questions or concerns:</p>
-         <p> 858-265-8579</p>
+        <p> 858-265-8579</p>
         <p> flora.yuan18@gmail.com</p>
-</div>
+    </div>
     <script>
-    var slideIndex1 = 1;
-    showSlides1(slideIndex1);
+        var slideIndex1 = 1;
+        showSlides1(slideIndex1);
 
-    function plusSlides1(x) {
-    showSlides1(slideIndex1 += x);
-    }
+        function plusSlides1(x) {
+            showSlides1(slideIndex1 += x);
+        }
 
-    function currentSlide1(x) {
-    showSlides1(slideIndex1 = x);
-    }
+        function currentSlide1(x) {
+            showSlides1(slideIndex1 = x);
+        }
 
-    function showSlides1(x) {
-    var i;
-    var slides1 = document.getElementsByClassName("quote");
-    var dots1 = document.getElementsByClassName("dot");
-    if (x > slides1.length) {slideIndex1 = 1}
-    if (x < 1) {slideIndex1 = slides1.length}
-    for (i = 0; i < slides1.length; i++) {
-    slides1[i].style.display = "none";
-    }
-    for (i = 0; i < dots1.length; i++) {
-    dots1[i].className = dots1[i].className.replace(" active", "");
-    }
-    slides1[slideIndex1-1].style.display = "block";
-    dots1[slideIndex1-1].className += " active";
-    }
-    document.getElementById("spec").onclick= function show1(){
-        let image = document.createElement('img');
-        image.setAttribute("th:src","@{/images/Capture.PNG}");
-        image.setAttribute("id","meat");
-        image.src = "/images/Capture.PNG";
-        image.style.height = "auto";
-        image.style.width="20%";
-        image.style.zIndex="1";
-        image.style.position="absolute";
-        image.style.top="150%";
-        image.style.left= "25%";
-        document.body.appendChild(image);
-        setTimeout(function(){
-           let obj = document.getElementById("meat");
-           obj.remove();
-        }, 1200);
-    }
+        function showSlides1(x) {
+            var i;
+            var slides1 = document.getElementsByClassName("quote");
+            var dots1 = document.getElementsByClassName("dot");
+            if (x > slides1.length) {slideIndex1 = 1}
+            if (x < 1) {slideIndex1 = slides1.length}
+            for (i = 0; i < slides1.length; i++) {
+                slides1[i].style.display = "none";
+            }
+            for (i = 0; i < dots1.length; i++) {
+                dots1[i].className = dots1[i].className.replace(" active", "");
+            }
+            slides1[slideIndex1-1].style.display = "block";
+            dots1[slideIndex1-1].className += " active";
+        }
+        document.getElementById("spec").onclick= function show1(){
+            let image = document.createElement('img');
+            image.setAttribute("th:src","@{/images/Capture.PNG}");
+            image.setAttribute("id","meat");
+            image.src = "/images/Capture.PNG";
+            image.style.height = "auto";
+            image.style.width="20%";
+            image.style.zIndex="1";
+            image.style.position="absolute";
+            image.style.top="150%";
+            image.style.left= "25%";
+            document.body.appendChild(image);
+            setTimeout(function(){
+                let obj = document.getElementById("meat");
+                obj.remove();
+            }, 1200);
+        }
 
     </script>
 </div>
@@ -237,7 +237,7 @@ unsure about anything for layout, nobody collaborating :(
     #position3{
         top:5%;
         position:absolute;
-       left:34%;
+        left:34%;
     }
     #position10{
         margin:auto;
@@ -290,7 +290,7 @@ unsure about anything for layout, nobody collaborating :(
         padding:50px 50px;
     }
     #position7{
-       bottom:0;
+        bottom:0;
         position:absolute;
     }
     #position6{
@@ -324,10 +324,10 @@ unsure about anything for layout, nobody collaborating :(
         line-height: 250px;
     }
     #position{
-          top:5%;
-          left:16%;
-          position: absolute;
-      }
+        top:5%;
+        left:16%;
+        position: absolute;
+    }
 
     .order1{
         transition-duration:0.0s;
@@ -353,20 +353,20 @@ unsure about anything for layout, nobody collaborating :(
     }
     #position2{
         top:5%;
-       left:25%;
+        left:25%;
         position:absolute;
     }
- .format{
-     background-color:white;
-     border:none;
-     text-decoration:none;
-     font-size:3px;
-     color:white;
-     top:0%;
-     right:0%;
-     position:absolute;
-     text-align:center;
- }
+    .format{
+        background-color:white;
+        border:none;
+        text-decoration:none;
+        font-size:3px;
+        color:white;
+        top:0%;
+        right:0%;
+        position:absolute;
+        text-align:center;
+    }
 
     * {box-sizing: border-box}
     body {
@@ -416,11 +416,11 @@ unsure about anything for layout, nobody collaborating :(
         position:absolute;
     }
     .prev{
-       position:absolute;
+        position:absolute;
         right:100%;
     }
 
-        /* On hover, add a black background color with a little bit see-through */
+    /* On hover, add a black background color with a little bit see-through */
     .prev:hover, .next:hover {
         background-color: rgba(0,0,0,0.8);
         color:white;
@@ -437,7 +437,7 @@ unsure about anything for layout, nobody collaborating :(
         display: inline-block;
         transition: background-color 0.6s ease;
     }
-/*lol not pushing */
+    /*lol not pushing */
     .active, .dot:hover {
         background-color: #717171;
     }
@@ -448,9 +448,9 @@ unsure about anything for layout, nobody collaborating :(
         -webkit-animation-duration: 1.5s;
         animation-name: fade;
         animation-duration: 1.5s;
-/*        animation: fade ease 4s;
-        animation-iteration-count:1;
-        animation-fill-mode: forwards; */
+        /*        animation: fade ease 4s;
+                animation-iteration-count:1;
+                animation-fill-mode: forwards; */
     }
 
     @-webkit-keyframes fade {
