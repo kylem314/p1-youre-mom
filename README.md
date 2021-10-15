@@ -97,7 +97,7 @@ Runtime link: TBD https://jportfolio.nighthawkcodingsociety.com/
 #### * Show some practical and fun links (hrefs) like Twitter, Git, YouTube
 #### * Show student project specific links (hrefs) per page
 #### * Show student TPT ideas
-#### * Show student About me pages
+#### * Show student About me page
 
 
 
