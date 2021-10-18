@@ -88,7 +88,7 @@
         }
         .info{
             position:absolute;
-            top:2200px;
+           top:2200px;
             width:100%;
             background-color:gray;
             margin:auto;
@@ -106,11 +106,28 @@
             text-align:center;
             line-height:10px;
         }
+        #background{
+            top:15%;
+            width:100%;
+            height:1000px;
+            position:absolute;
+            background-color:forestgreen;
+            border:none;
+        }
     </style>
 </head>
 <body>
 
+<!--nav bar stuff-->
+<div>
+    <img id="picture" src="/static/images/flower.jpg" th:src="@{/images/pusdlogo.png}" alt="menu" width="120px" height="120px" >
+    <a href="/help"><button class="format">Help</button></a>
+    <a href="/menu"><button class="order1" id="position2"> Order</button></a>
+    <a href="/aboutus"><button class="order1" id="position3"> About Us</button></a>
+    <a href="/ourwebsite"><button class="order1" id="position">Home</button></a>
+</div>
 
+<div id="background">
 <!--words-->
 <div  id="place">
     <h1>Who Are We</h1>
@@ -121,20 +138,10 @@
     <h1>Reserving food for...</h1>
     <h2 style="font-family: Georgia,serif; font-size:20px;">Students</h2>
     <p style="font-family: Georgia,serif; font-size:20px;">With all your favorite lunch foods listed on our website,<br>Del Norte Food Ordering Service satisfies your cravings with<br>just a click of the button.</p>
-
+</div>
 
 
 </div>
-
-<!-- nav bar stuff-->
-<div>
-    <img id="picture" src="/static/images/flower.jpg" th:src="@{/images/pusdlogo.png}" alt="menu" width="120px" height="120px" >
-    <a href="/help"><button class="format">Help</button></a>
-    <a href="/menu"><button class="order1" id="position2"> Order</button></a>
-    <a href="/aboutus"><button class="order1" id="position3"> About Us</button></a>
-    <a href="/ourwebsite"><button class="order1" id="position">Home</button></a>
-</div>
-
 <!--bottom stuff-->
 <div class="info">
     <p>Developers:</p>
@@ -144,8 +151,9 @@
     <p>Devam</p>
     <p>Kyle</p>
     <div id="position10">
-        <p>Contact Harry for any problems,<br> <br>questions or concerns:</p>
-        <p> 760-705-5732</p>
+        <p>Contact Flora for any problems,<br> <br>questions or concerns:</p>
+        <p> 858-265-8579</p>
+        <p> flora.yuan18@gmail.com</p>
     </div>
 </div>
 </body>
