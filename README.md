@@ -13,7 +13,7 @@ Harry Li | wiz124 | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMas
 Pair Share  |  Link
 -------------    | -------------- | 
 Yajat + Kyle | [Journal](https://docs.google.com/document/d/1Gc-86BvTlot4jyVBa4iQE2sjUcaYF_pDU6r2joCvn34/edit)
-Flora + Devam + Harry | [Journal](https://docs.google.com/document/d/1j2SUFoxa5XTKc_XzALJ9SQDAT810OrmKYq4Sr1oO0-s/edit)
+Flora + Devam + Harry | [Journal](https://docs.google.com/document/d/1ZbrZE_7m7otx_fzhOEZwBUQe3HiBdArVGhj036xgOZ4/edit?usp=sharing)
 
 ## Completed Issues 10/11-10/15
 Issue Name             | Link | 
