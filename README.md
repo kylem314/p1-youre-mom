@@ -13,11 +13,11 @@ Harry Li | wiz124 | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMas
 Note: Scrum team comments are in each issue
 Name             | Issue Link | Score | 
 -------------    | -------------- | -------------- | 
-Kyle Myint | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/53)| x / 6 | 
-Harry Li | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/52)| x / 6 | 
-Devam Shrivastava | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/49)| x / 6 | 
-Flora Yuan | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/51)| x / 6 | 
-Yajat Yadav | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/50)| x / 6 | 
+Kyle Myint | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/53)| 5.75 / 6 | 
+Harry Li | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/52)| 5.75 / 6 | 
+Devam Shrivastava | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/49)| 5.5 / 6 | 
+Flora Yuan | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/51)| 6 / 6 | 
+Yajat Yadav | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/50)| 5.75 / 6 | 
 
 ## N@tM Overview and Unit 8  10/20
 Pair Share  |  Link
