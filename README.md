@@ -13,7 +13,7 @@ Harry Li | wiz124 | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMas
 Note: Scrum team comments are in each issue
 Name             | Issue Link | Score | 
 -------------    | -------------- | -------------- | 
-Kyle Myint | [Issue](link)| x / 6 | 
+Kyle Myint | [Issue](lin)| x / 6 | 
 Harry Li | [Issue](link)| x / 6 | 
 Devam Shrivastava | [Issue](link)| x / 6 | 
 Flora Yuan | [Issue](link)| x / 6 | 
