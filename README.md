@@ -9,6 +9,16 @@ Yajat Yadav | yajatyadav | [Issues](https://github.com/devamshri/AllHailTheHolyS
 Flora Yuan | florayuan18 | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues?q=is%3Aissue+assignee%3Aflorayuan18+) | [Scrum Board](https://github.com/yajatyadav/spring_portfolio/projects/1?card_filter_query=assignee%3Aflorayuan18) | [Issues](https://github.com/yajatyadav/spring_portfolio/issues/assigned/florayuan18) -- [Commit Page](https://github.com/yajatyadav/spring_portfolio/commits?author=florayuan18) | [Profile](https://github.com/florayuan18) |
 Harry Li | wiz124 | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues?q=is%3Aissue+assignee%3Awiz124+) | [Scrum Board](https://github.com/yajatyadav/spring_portfolio/projects/1?card_filter_query=assignee%3Awiz124) | [Issues](https://github.com/yajatyadav/spring_portfolio/issues/assigned/wiz124) -- [Commit Page](https://github.com/yajatyadav/spring_portfolio/commits?author=wiz124) | [Profile](https://github.com/wiz124) |
 
+## Individual Final Part 1
+Note: Scrum team comments are in each issue
+Name             | Issue Link | Score | 
+-------------    | -------------- | -------------- | 
+Kyle Myint | [Issue](link)| x / 6 | 
+Harry Li | [Issue](link)| x / 6 | 
+Devam Shrivastava | [Issue](link)| x / 6 | 
+Flora Yuan | [Issue](link)| x / 6 | 
+Yajat Yadav | [Issue](link)| x / 6 | 
+
 ## N@tM Overview and Unit 8  10/20
 Pair Share  |  Link
 -------------    | -------------- | 
