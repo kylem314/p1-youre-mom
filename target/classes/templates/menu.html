@@ -9,6 +9,8 @@
     <title>Food Ordering Service</title>
 </head>
 <body>
+
+
 <style>
     th, tr {
         padding-top: 20px;
@@ -87,6 +89,20 @@
 
 <div style="position:absolute; top:150px;">
 <h1> Food Ordering Service</h1>
+    <table>
+        <tr>
+            <th>Preferred pickup location</th>
+            <th>
+                <select name="Location" id="Pickup_location" type="string">
+                <option selected="selected" value="Any">No Preference</option>
+                <option value="Cafeteria">Cafeteria</option>
+                <option value="Kiosk_1">Kiosk 1</option>
+                <option value="Kiosk_2">Kiosk 2</option>
+            </select>
+            </th>
+        </tr>
+    </table>
+
 <table>
     <tr class="odd" bgcolor="#808080">
         <th>Food</th>
