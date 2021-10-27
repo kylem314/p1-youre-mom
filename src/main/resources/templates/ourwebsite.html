@@ -52,7 +52,10 @@
         gimme gimme suggestions-->
     <a href="/ourwebsite"><button class="order1" id="position">Home</button></a>
 </div>
-
+<div id="login">
+    <button class="order1" id="tincan" >Login</button>
+    <img src="/static/images/DNBeverages.jpg" th:src="@{/images/pfp.png}" alt="pfp" height="60px" width="60x" style="position:relative;top:25%;">
+</div>
 <!--this for the logo and name of website-->
 <div id ="gradient" >
     <p class ="title" >Del Norte Food Ordering Service</p>
@@ -238,6 +241,19 @@
 </html>
 
 <style>
+    #tincan{
+        height: 50px;
+        position:relative;
+        top:25%;
+    }
+    #login{
+        position:absolute;
+        display:flex;
+        justify-content: space-between;
+        width: 15%;
+        height: 15%;
+        right:5%;
+    }
     #position3{
         top:5%;
         position:absolute;
