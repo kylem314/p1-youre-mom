@@ -17,7 +17,7 @@ Kyle Myint | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issu
 Harry Li | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/52)| 5.75 / 6 | 
 Devam Shrivastava | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/49)| 5.5 / 6 | 
 Flora Yuan | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/51)| 6 / 6 | 
-Yajat Yadav | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/50)| 5.75 / 6 | 
+Yajat Yadav | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/50)| 5.75  / 6 | 
 
 ## N@tM Overview and Unit 8  10/20
 Pair Share  |  Link
