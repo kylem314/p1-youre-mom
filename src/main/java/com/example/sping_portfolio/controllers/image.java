@@ -191,7 +191,7 @@ public class image {
 
             output a;
 
-            //PLS NOTE THAT NONE IF THIS IS TESTED TO SEE IF IT WORKS OR NOT
+
             //might output values to an array if that is needed
 
             //calls to calculate base64

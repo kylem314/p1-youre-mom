@@ -9,6 +9,22 @@ Yajat Yadav | yajatyadav | [Issues](https://github.com/devamshri/AllHailTheHolyS
 Flora Yuan | florayuan18 | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues?q=is%3Aissue+assignee%3Aflorayuan18+) | [Scrum Board](https://github.com/yajatyadav/spring_portfolio/projects/1?card_filter_query=assignee%3Aflorayuan18) | [Issues](https://github.com/yajatyadav/spring_portfolio/issues/assigned/florayuan18) -- [Commit Page](https://github.com/yajatyadav/spring_portfolio/commits?author=florayuan18) | [Profile](https://github.com/florayuan18) |
 Harry Li | wiz124 | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues?q=is%3Aissue+assignee%3Awiz124+) | [Scrum Board](https://github.com/yajatyadav/spring_portfolio/projects/1?card_filter_query=assignee%3Awiz124) | [Issues](https://github.com/yajatyadav/spring_portfolio/issues/assigned/wiz124) -- [Commit Page](https://github.com/yajatyadav/spring_portfolio/commits?author=wiz124) | [Profile](https://github.com/wiz124) |
 
+## Individual Final Part 1
+Note: Scrum team comments are in each issue
+Name             | Issue Link | Score | 
+-------------    | -------------- | -------------- | 
+Kyle Myint | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/53)| 5.75 / 6 | 
+Harry Li | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/52)| 5.75 / 6 | 
+Devam Shrivastava | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/49)| 5.5 / 6 | 
+Flora Yuan | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/51)| 6 / 6 | 
+Yajat Yadav | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/50)| 5.75 / 6 | 
+
+## N@tM Overview and Unit 8  10/20
+Pair Share  |  Link
+-------------    | -------------- | 
+Yajat + Kyle | [Journal](https://docs.google.com/document/d/1Gc-86BvTlot4jyVBa4iQE2sjUcaYF_pDU6r2joCvn34/edit)
+Flora + Devam + Harry | [Journal](https://docs.google.com/document/d/1ZbrZE_7m7otx_fzhOEZwBUQe3HiBdArVGhj036xgOZ4/edit?usp=sharing)
+
 ## Completed Issues 10/11-10/15
 Issue Name             | Link | 
 -------------    | -------------- | 
