@@ -38,7 +38,7 @@ public class harryalgorithm extends HttpServlet{
             PrintWriter out = response.getWriter();
             String html = "";
 
-            //lol do we really need to go through so much cpu just to calculate a simple factorial
+            //simple factorial
             if (num == 1 || num == 0) {
                 System.out.println("1");
 
