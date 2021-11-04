@@ -54,12 +54,14 @@
 </div>
 
 
-<!---login stuff-->
+<!---login buttons-->
 <div id="login">
+    <a href="/loginform"><button class="order1 tincan">Sign Up</button></a>
     <button class="order1 tincan" onclick="document.getElementById('id01').style.display='block'" >Login</button>
     <img src="/static/images/DNBeverages.jpg" th:src="@{/images/pfp.png}" alt="pfp" height="60px" width="60x" style="position:relative;top:25%;">
 </div>
 
+<!--login form-->
 <div id="id01" class="modal">
 
     <form class="modal-content animate"  method="post">
@@ -87,6 +89,7 @@
         </div>
     </form>
 </div>
+
 <script>
     var modal = document.getElementById('id01');
 
@@ -408,10 +411,11 @@
         top:25%;
     }
     #login{
+        top:1%;
         position:absolute;
         display:flex;
         justify-content: space-between;
-        width: 15%;
+        width: 25%;
         height: 15%;
         right:5%;
     }
