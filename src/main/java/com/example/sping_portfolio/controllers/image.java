@@ -3,7 +3,7 @@ package com.example.sping_portfolio.controllers;
  * Web Content with Spring MVCSpring Example: https://spring.io/guides/gs/serving-web-con
  */
 
-
+/*
 import java.io.ByteArrayOutputStream;
 import  org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -24,7 +24,6 @@ import javax.imageio.ImageIO;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.swing.*;
-
 @Controller  // HTTP requests are handled as a controller, using the @Controller annotation
 public class image {
 
