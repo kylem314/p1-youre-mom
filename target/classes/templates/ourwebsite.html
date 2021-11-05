@@ -32,7 +32,9 @@
     ?* = extra unsure about this
     unsure about anything for layout, nobody collaborating :(
     -->
-
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Font Awesome Icon Library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
 </head>
@@ -44,10 +46,22 @@
     <img id="picture" src="/static/images/flower.jpg" th:src="@{/images/pusdlogo.png}" alt="menu" width="120px" height="120px" >
     <a href="/help"><button class="format">Help</button></a>
     <a href="/menu"><button class="order1" id="position2"> Order</button></a>
+    <a href="/reviews"><button class="order1" id="position21"> Reviews</button></a>
     <!--    <a><button class="order1" id="position3">Future Lunch Schedules</button></a>
     -->
     <!--create this about us page later-->
-    <a href="/aboutus"><button class="order1" id="position3"> About Us</button></a>
+    <div class="dropdown" id="position3">
+        <button class="aboutbutton">About Us</button>
+        <div class="dropdown-content">
+            <a href="/yajatabout">Yajat</a>
+            <a href="/kyleabout">Kyle</a>
+            <a href="/harryabout">Harry</a>
+            <a href="/floraabout">Flora</a>
+            <a href="/devamabout">Devam</a>
+        </div>
+    </div>
+
+    <!--<a href="/aboutus"><button class="order1" id="position3"> About Us</button></a>-->
     <!--what other buttons should we add
         gimme gimme suggestions-->
     <a href="/ourwebsite"><button class="order1" id="position">Home</button></a>
@@ -220,18 +234,16 @@
 
 </div>
 
-
 <div class="info">
     <p>Developers:</p>
     <p>Harry</p>
-    <p>Flora</p>
+    <button id="spec">Flora</button>
     <p>Yajat</p>
     <p>Devam</p>
-    <p>Kyle</p>
+    <p>Kyle </p>
     <div id="position10">
-        <p>Contact Flora for any problems,<br> <br>questions or concerns:</p>
-        <p> 858-265-8579</p>
-        <button id="spec"> flora.yuan18@gmail.com</button>
+        <p>Contact Harry for any problems,<br> <br>questions or concerns:</p>
+        <p> 760-705-5732 </p>
     </div>
     <script>
         var slideIndex1 = 1;
@@ -448,6 +460,41 @@
         max-width:100%;
         max-height:100%;
     }
+
+    .aboutbutton {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+        background-color:darkgray;
+        color:white;
+        border:none;
+    }
+
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        right: 0;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        
+        z-index: 1;
+    }
+
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+    .dropdown-content a:hover {background-color: #f1f1f1;}
+    .dropdown:hover .dropdown-content {display: block;}
+    .dropdown:hover .aboutbutton {background-color: #3e8e41;}
+
+
     #spec{
         background: none;
         border: none;
@@ -486,6 +533,14 @@
         border:50px solid #2ECC71;
         display:flex;
         justify-content:center;
+    }
+    #position10{
+        top:1300px;
+        left:2%;
+        position:absolute;
+        background-color: #89CFF0;
+        border:none;
+        padding:50px 50px;
     }
     #picture{
         top:1%;
@@ -541,6 +596,11 @@
         left:25%;
         position:absolute;
     }
+    #position21{
+        top:5%;
+        left:43%;
+        position:absolute;
+    }
     .format{
         background-color:white;
         border:none;
@@ -561,7 +621,6 @@
 
     }
     .mySlides, .quote {display: none}
-
 
     /* Slideshow container */
     .slideshow-container {

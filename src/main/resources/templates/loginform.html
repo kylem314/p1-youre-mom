@@ -78,10 +78,12 @@
             text-align:center;
         }
         .center{
-            width:100%;
             top:20%;
-            padding-right:50%;
+            left:50%;
+            position:absolute;
+            transform: translate(-50%, -0%);
         }
+
 
 
     </style>
@@ -101,8 +103,11 @@
     <a href="/ourwebsite"><button class="order1" id="position">Home</button></a>
 </div>
 
-<div style="margin: 2%; position:absolute;" class="center">
-    <h3>Welcome, Enter The Persons Details</h3>
+<div class="center" style="width:250px; height:100px;">
+
+    <div style="text-align:center">
+        <h3>Welcome, Enter The Persons Details</h3>
+    </div>
     <!-- ThymeLeaf allows person abject of the Class Person to be acted upon by the form
      This is known as a “bean-backed form” or "form-backing bean".
         th:object - the backend form object (bean object)
@@ -116,28 +121,30 @@
     <form action="#"  method="POST"> <!--th:action="@{/data/personcreate}" th:object="${person}"-->
         <table>
             <tr>
-                <td>Email:</td>
-                <td><input type="email"  /></td> <!--th:field="*{email}"-->
+                <td>Username:</td>
+                <td><input type="text"  /></td> <!--th:field="*{email}"-->
                 <!--<td  >EMail Error</td> th:if="${#fields.hasErrors('email')}" th:errors="*{email}"-->
             </tr>
             <tr>
-                <td>Name:</td>
+                <td>Password:</td>
                 <td><input type="text"  /></td> <!--th:field="*{name}"-->
                 <!--<td >Name Error</td> th:if="${#fields.hasErrors('name')}" th:errors="*{name}"-->
             </tr>
             <tr>
                 <td>Student ID:</td>
-                <td><input type="text"  /></td>  <!--th:field="*{dob}"-->
+                <td><input type="number"  /></td>  <!--th:field="*{dob}"-->
                 <!--<td>Birth Date Error</td> th:if="${#fields.hasErrors('dob')}" th:errors="*{dob}"-->
 
             </tr>
             <tr>
-                <td><button type="submit">Submit</button></td>
+                <td><button type="submit" class="order1">Submit</button></td>
             </tr>
-        </table>
-    </form>
-</div>
 
+        </table>
+
+    </form>
+
+</div>
 <div class="info">
     <p>Developers:</p>
     <p>Harry</p>
