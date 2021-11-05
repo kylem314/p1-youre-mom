@@ -1,5 +1,4 @@
 package com.example.sping_portfolio.controllers.database;
-package com.nighthawk.csa.data.SQL;
 
 import org.hibernate.dialect.Dialect;
 import org.hibernate.dialect.function.SQLFunctionTemplate;
@@ -8,6 +7,8 @@ import org.hibernate.dialect.function.VarArgsSQLFunction;
 import org.hibernate.type.StringType;
 
 import java.sql.Types;
+
+package com.nighthawk.csa.data.SQL;
 
 /*
 This Dialect is brought into project to support SQLite
