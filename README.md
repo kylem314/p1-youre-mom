@@ -1,3 +1,7 @@
+## Del Norte Food Ordering Service
+This project was created by Harry, Devam, Yajat, Flora, and Kyle. Our coding skills are rudimentary so any and all contributions will be welcomed. We will
+judge each contribution. Our project is dedicated to helping our school, Del Norte High School, serve a smooth lunch experience. Its purpose is to allow students to order food from school online in order to reduce lunch line congestion. Our project uses Thymeleaf to fuse java and html elements. The project is publicly accessible on the web. To run the program, find main.java and run it. 
+
 ## Project Details (Pop Quiz)
 
 m221_Penguins   | [Scrum Board](https://github.com/yajatyadav/spring_portfolio/projects/1) | [Repo Contributors](https://github.com/yajatyadav/spring_portfolio/graphs/contributors) | ------ | ------ | ------ |
