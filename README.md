@@ -20,7 +20,7 @@ Kyle Myint | [Journal](link)|
 Harry Li | [Journal](https://docs.google.com/document/d/1d0LasO441Eu_MtpE_ls5NWcNcYAKnS1D0UYqwhyFTQY/edit?usp=sharing)|
 Devam Shrivastava | [Journal](link)|
 Flora Yuan | [Journal](https://docs.google.com/document/d/1Lj7THBJb-QpJHe8qe5OsWpUpPsCb5o91J9JpXj4ZpFA/edit?usp=sharing)|
-Yajat Yadav | [Journal](link)|
+Yajat Yadav | [Journal](https://docs.google.com/document/d/1AGFgQEv73ZCuqD_dM7yOC3JB1mxQLiS7YM0RUrWyMo0/edit?usp=sharing)|
 
 ## Individual Final Part 1
 Note: Scrum team comments are in each issue
