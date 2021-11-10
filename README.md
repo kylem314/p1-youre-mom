@@ -19,7 +19,7 @@ Name             | Journal link |
 Kyle Myint | [Journal](link)|
 Harry Li | [Journal](link)|
 Devam Shrivastava | [Journal](link)|
-Flora Yuan | [Journal](link)|
+Flora Yuan | [Journal](https://docs.google.com/document/d/1Lj7THBJb-QpJHe8qe5OsWpUpPsCb5o91J9JpXj4ZpFA/edit?usp=sharing)|
 Yajat Yadav | [Journal](link)|
 
 ## Individual Final Part 1
