@@ -14,11 +14,11 @@ Flora Yuan | florayuan18 | [Issues](https://github.com/devamshri/AllHailTheHolyS
 Harry Li | wiz124 | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues?q=is%3Aissue+assignee%3Awiz124+) | [Scrum Board](https://github.com/yajatyadav/spring_portfolio/projects/1?card_filter_query=assignee%3Awiz124) | [Issues](https://github.com/yajatyadav/spring_portfolio/issues/assigned/wiz124) -- [Commit Page](https://github.com/yajatyadav/spring_portfolio/commits?author=wiz124) | [Profile](https://github.com/wiz124) |
 
 ## Final reflections & N@TM
-Name             | Journal link |
+Name             | Reflection link |
 -------------    | -------------- | 
 Kyle Myint | [Journal](link)|
 Harry Li | [Journal](https://docs.google.com/document/d/1d0LasO441Eu_MtpE_ls5NWcNcYAKnS1D0UYqwhyFTQY/edit?usp=sharing)|
-Devam Shrivastava | [Journal](link)|
+Devam Shrivastava | [Journal](https://docs.google.com/document/d/1ams_R9wWZBs3Y5xRbWLlmRN4uiJJmhoppbKn40Lhlgc/edit)|
 Flora Yuan | [Journal](https://docs.google.com/document/d/1Lj7THBJb-QpJHe8qe5OsWpUpPsCb5o91J9JpXj4ZpFA/edit?usp=sharing)|
 Yajat Yadav | [Journal](https://docs.google.com/document/d/1AGFgQEv73ZCuqD_dM7yOC3JB1mxQLiS7YM0RUrWyMo0/edit?usp=sharing)|
 
