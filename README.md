@@ -17,7 +17,7 @@ Harry Li | wiz124 | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMas
 Name             | Journal link |
 -------------    | -------------- | 
 Kyle Myint | [Journal](link)|
-Harry Li | [Journal](link)|
+Harry Li | [Journal](https://docs.google.com/document/d/1d0LasO441Eu_MtpE_ls5NWcNcYAKnS1D0UYqwhyFTQY/edit?usp=sharing)|
 Devam Shrivastava | [Journal](link)|
 Flora Yuan | [Journal](https://docs.google.com/document/d/1Lj7THBJb-QpJHe8qe5OsWpUpPsCb5o91J9JpXj4ZpFA/edit?usp=sharing)|
 Yajat Yadav | [Journal](link)|
