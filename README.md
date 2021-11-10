@@ -13,6 +13,15 @@ Yajat Yadav | yajatyadav | [Issues](https://github.com/devamshri/AllHailTheHolyS
 Flora Yuan | florayuan18 | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues?q=is%3Aissue+assignee%3Aflorayuan18+) | [Scrum Board](https://github.com/yajatyadav/spring_portfolio/projects/1?card_filter_query=assignee%3Aflorayuan18) | [Issues](https://github.com/yajatyadav/spring_portfolio/issues/assigned/florayuan18) -- [Commit Page](https://github.com/yajatyadav/spring_portfolio/commits?author=florayuan18) | [Profile](https://github.com/florayuan18) |
 Harry Li | wiz124 | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues?q=is%3Aissue+assignee%3Awiz124+) | [Scrum Board](https://github.com/yajatyadav/spring_portfolio/projects/1?card_filter_query=assignee%3Awiz124) | [Issues](https://github.com/yajatyadav/spring_portfolio/issues/assigned/wiz124) -- [Commit Page](https://github.com/yajatyadav/spring_portfolio/commits?author=wiz124) | [Profile](https://github.com/wiz124) |
 
+## Final reflections & N@TM
+Name             | Journal link |
+-------------    | -------------- | 
+Kyle Myint | [Journal](link)|
+Harry Li | [Journal](link)|
+Devam Shrivastava | [Journal](link)|
+Flora Yuan | [Journal](link)|
+Yajat Yadav | [Journal](link)|
+
 ## Individual Final Part 1
 Note: Scrum team comments are in each issue
 Name             | Issue Link | Score | 
