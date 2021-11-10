@@ -16,7 +16,7 @@ Harry Li | wiz124 | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMas
 ## Final reflections & N@TM
 Name             | Reflection link |
 -------------    | -------------- | 
-Kyle Myint | [Journal](link)|
+Kyle Myint | [Journal](https://docs.google.com/document/d/1-alkdDcceGG-o69JnpZia2obt1U8zChv7EBEt5bv1HE/edit?usp=sharing)|
 Harry Li | [Journal](https://docs.google.com/document/d/1d0LasO441Eu_MtpE_ls5NWcNcYAKnS1D0UYqwhyFTQY/edit?usp=sharing)|
 Devam Shrivastava | [Journal](https://docs.google.com/document/d/1ams_R9wWZBs3Y5xRbWLlmRN4uiJJmhoppbKn40Lhlgc/edit)|
 Flora Yuan | [Journal](https://docs.google.com/document/d/1Lj7THBJb-QpJHe8qe5OsWpUpPsCb5o91J9JpXj4ZpFA/edit?usp=sharing)|
