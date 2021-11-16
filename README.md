@@ -1,5 +1,5 @@
 ## Del Norte Food Ordering Service
-This project was created by Harry, Devam, Yajat, Flora, and Kyle. Our coding skills are rudimentary so any and all contributions will be welcomed. We will
+This project was created by Kyle, Charlie, Yajat, and Eric. Our coding skills are rudimentary so any and all contributions will be welcomed. We will
 judge each contribution. Our project is dedicated to helping our school, Del Norte High School, serve a smooth lunch experience. Its purpose is to allow students to order food from school online in order to reduce lunch line congestion. Our project uses Thymeleaf to fuse java and html elements. The project is publicly accessible on the web. To run the program, find main.java and run it. 
 
 ## Project Details (Pop Quiz)
@@ -12,97 +12,6 @@ Devam Shrivastava | devamshri | [Issues](https://github.com/devamshri/AllHailThe
 Yajat Yadav | yajatyadav | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues?q=is%3Aissue+assignee%3Ayajatyadav+) | [Scrum Board](https://github.com/yajatyadav/spring_portfolio/projects/1?card_filter_query=assignee%3Ayajatyadav) | [Issues](https://github.com/yajatyadav/spring_portfolio/issues/assigned/yajatyadav) -- [Commit Page](https://github.com/yajatyadav/spring_portfolio/commits?author=yajatyadav) | [Profile](https://github.com/yajatyadav) | 
 Flora Yuan | florayuan18 | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues?q=is%3Aissue+assignee%3Aflorayuan18+) | [Scrum Board](https://github.com/yajatyadav/spring_portfolio/projects/1?card_filter_query=assignee%3Aflorayuan18) | [Issues](https://github.com/yajatyadav/spring_portfolio/issues/assigned/florayuan18) -- [Commit Page](https://github.com/yajatyadav/spring_portfolio/commits?author=florayuan18) | [Profile](https://github.com/florayuan18) |
 Harry Li | wiz124 | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues?q=is%3Aissue+assignee%3Awiz124+) | [Scrum Board](https://github.com/yajatyadav/spring_portfolio/projects/1?card_filter_query=assignee%3Awiz124) | [Issues](https://github.com/yajatyadav/spring_portfolio/issues/assigned/wiz124) -- [Commit Page](https://github.com/yajatyadav/spring_portfolio/commits?author=wiz124) | [Profile](https://github.com/wiz124) |
-
-## Final reflections & N@TM
-Name             | Reflection link |
--------------    | -------------- | 
-Kyle Myint | [Journal](https://docs.google.com/document/d/1-alkdDcceGG-o69JnpZia2obt1U8zChv7EBEt5bv1HE/edit?usp=sharing)|
-Harry Li | [Journal](https://docs.google.com/document/d/1d0LasO441Eu_MtpE_ls5NWcNcYAKnS1D0UYqwhyFTQY/edit?usp=sharing)|
-Devam Shrivastava | [Journal](https://docs.google.com/document/d/1ams_R9wWZBs3Y5xRbWLlmRN4uiJJmhoppbKn40Lhlgc/edit)|
-Flora Yuan | [Journal](https://docs.google.com/document/d/1Lj7THBJb-QpJHe8qe5OsWpUpPsCb5o91J9JpXj4ZpFA/edit?usp=sharing)|
-Yajat Yadav | [Journal](https://docs.google.com/document/d/1AGFgQEv73ZCuqD_dM7yOC3JB1mxQLiS7YM0RUrWyMo0/edit?usp=sharing)|
-
-## Individual Final Part 1
-Note: Scrum team comments are in each issue
-Name             | Issue Link | Score | 
--------------    | -------------- | -------------- | 
-Kyle Myint | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/53)| 5.75 / 6 | 
-Harry Li | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/52)| 5.75 / 6 | 
-Devam Shrivastava | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/49)| 5.5 / 6 | 
-Flora Yuan | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/51)| 6 / 6 | 
-Yajat Yadav | [Issue](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues/50)| 5.75  / 6 | 
-
-## N@tM Overview and Unit 8  10/20
-Pair Share  |  Link
--------------    | -------------- | 
-Yajat + Kyle | [Journal](https://docs.google.com/document/d/1Gc-86BvTlot4jyVBa4iQE2sjUcaYF_pDU6r2joCvn34/edit)
-Flora + Devam + Harry | [Journal](https://docs.google.com/document/d/1ZbrZE_7m7otx_fzhOEZwBUQe3HiBdArVGhj036xgOZ4/edit?usp=sharing)
-
-## Completed Issues 10/11-10/15
-Issue Name             | Link | 
--------------    | -------------- | 
-Issue name | [Issue](Link) |
-Issue name | [Issue](Link) |
-Issue name | [Issue](Link) |
-
-## Modeling Checkpoint + Unit 7
-### [Team Video](https://drive.google.com/file/d/1AGgbAhDmbF9_e15GR-5vDqg12HO3X3VS/view?usp=sharing)
-Pair Share  |  Link
--------------    | -------------- | 
-Yajat + Kyle | [Journal](https://docs.google.com/document/d/1Gc-86BvTlot4jyVBa4iQE2sjUcaYF_pDU6r2joCvn34/edit)
-Flora + Devam + Harry | [Journal](https://docs.google.com/document/d/1j2SUFoxa5XTKc_XzALJ9SQDAT810OrmKYq4Sr1oO0-s/edit)
-
-## Completed Issues 9/28 - 10/1
-Issue Name             | Link | 
--------------    | -------------- | 
-Issue name | [Issue](Link) |
-Issue name | [Issue](Link) |
-Issue name | [Issue](Link) |
-
-## Unit 5 9/20-9/24
-Name             | Link(s) | Score | 
--------------    | -------------- | -------------- | 
-Kyle Myint | [Unit 5/Journal](https://docs.google.com/document/d/1CxsEdfdUGzKdkgkaZQxlAywKfanPuT3YYo9fy-y2DZU/edit?usp=sharing )| 5 / 5 | 
-Harry Li | [Unit 5/Journal](https://docs.google.com/document/d/1Z8wut649FaYGxzvYylkW5rdL1nL5PG2Um-Ge4-RsKwo/edit)| 5 / 5 | 
-Devam Shrivastava | [Unit 5/Journal](link)| 5 / 5 | 
-Flora Yuan | [Unit 5/Journal](link)| 5 / 5 | 
-Yajat Yadav | [Unit 5/Journal](link)| 5 / 5 | 
-
-## Prototype Sprint End and Unit 4 9/13-9/17
-[Team Document](https://docs.google.com/document/d/1J32KU4wGS6S89PuoYip7IkE_czWwMvMnCkQFUcXugF0/edit?usp=sharing)  ---  3 / 3
-
-Name             | Link(s) | Score | 
--------------    | -------------- | -------------- | 
-Kyle Myint | [Unit 4/Journal](https://docs.google.com/document/d/1CxsEdfdUGzKdkgkaZQxlAywKfanPuT3YYo9fy-y2DZU/edit) --- [Individual Technicals](https://docs.google.com/document/d/13NkJewmSA9jL_fS_LLqqos3HMYwHeZdugXIBA6_5AAg/edit?usp=sharing)| 7 / 7 | 
-Harry Li | [Document](https://docs.google.com/document/d/1WWKJCEe1gDjJTDdgrik0eljGQHCxzATV62_QvdXGlVg/edit) | 5 / 5 | 
-Devam Shrivastava | [Document](https://docs.google.com/document/d/1lUQ_udRR1pJ6LzKUM_6pWJmPsrRB-Fv0lp9Uvap1j5k/edit) | 5 / 5 |  
-Flora Yuan | [Unit 4/Journal](https://docs.google.com/document/d/1chgaTpbgRCmXZyCK4A7hwueresrFDNeg2BjiKBzA3XM/edit?usp=sharing) | 5 / 5 |
-Yajat Yadav | [Document](https://docs.google.com/document/d/1CxsEdfdUGzKdkgkaZQxlAywKfanPuT3YYo9fy-y2DZU/edit)| 5 / 5 | 
-
-## Completed Issues 9/13-9/17
-Issue Name             | Link | 
--------------    | -------------- | 
-Thymeleaf for Menu Table and formatting | [Issue](https://github.com/yajatyadav/spring_portfolio/issues/29)  |
-Completed cost for menu items on menu page | [Issue](https://github.com/yajatyadav/spring_portfolio/issues/36) |
-Main page opener + picture display | [Issue](https://github.com/yajatyadav/spring_portfolio/issues/39) |
-
-## Prototype Check and Unit 3 9/6-9/10
-Name             | Link(s) | Score | 
--------------    | -------------- | -------------- | 
-Team PBL | [Document](https://docs.google.com/document/d/10An5E4cxTf8f4C0xxmIFeiW3VPrkqMKijo_gt5rHDZs/edit?usp=sharing)  | 5 / 5 |
-Kyle Myint | [Document](https://docs.google.com/document/d/1CxsEdfdUGzKdkgkaZQxlAywKfanPuT3YYo9fy-y2DZU/edit) | 5 / 5 | 
-Harry Li | [Document](https://docs.google.com/document/d/1ROEbYQ--ZeuYzCdiGoVsIqJUdvelKxbON_kpQ8kyJ5U/edit) | 5 / 5 | 
-Devam Shrivastava | [Document](https://docs.google.com/document/d/1lUQ_udRR1pJ6LzKUM_6pWJmPsrRB-Fv0lp9Uvap1j5k/edit) | 5 / 5 |  
-Flora Yuan | [Document](https://docs.google.com/document/d/1a9IQU3_uE1ipK_MvJwMlkhNlwpNBhdLAmtqbNlbwHQo/edit?usp=sharing) | 5 / 5 |
-Yajat Yadav | [Document](https://docs.google.com/document/d/18WtqhehIF7iWMmhNLunfDmvwQxE_vz1laiWYDu0a9hs/edit?usp=sharing)| 5 / 5 | 
-
-## Completed Issues 9/6-9/10
-Issue Name             | Link | 
--------------    | -------------- | 
-Update Readme | [Issue](https://github.com/yajatyadav/spring_portfolio/issues/13)  |
-Display Foods Available | [Issue](https://github.com/yajatyadav/spring_portfolio/issues/15) | 
-Layout Menu Page | [Issue](https://github.com/yajatyadav/spring_portfolio/issues/22) |
-
 
 ## Journal Links
 Type             | Link(s) | Score | 
