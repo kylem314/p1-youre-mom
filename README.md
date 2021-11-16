@@ -4,7 +4,7 @@ judge each contribution. Our project is dedicated to helping our school, Del Nor
 
 ## Project Details (Pop Quiz)
 
-m221_Penguins   | [Scrum Board](https://github.com/yajatyadav/spring_portfolio/projects/1) | [Repo Contributors](https://github.com/yajatyadav/spring_portfolio/graphs/contributors) | ------ | ------ | ------ |
+m221_youre-mom   | [Scrum Board](https://github.com/kylem314/p1-youre-mom/projects/1) | [Repo Contributors](https://github.com/yajatyadav/spring_portfolio/graphs/contributors) | ------ | ------ | ------ |
 ------ | ------ | ------ | ------ | ------ | ------ |
 Name            | GitHub ID | Tasks | Scrum Board | Commits | Profile |
 Kyle Myint | kylem314 | [Issues](https://github.com/devamshri/AllHailTheHolyScrumMaster/issues?q=is%3Aissue+assignee%3Akylem314+) | [Scrum Board](https://github.com/yajatyadav/spring_portfolio/projects/1?card_filter_query=assignee%3Akylem314) | [Issues](https://github.com/yajatyadav/spring_portfolio/issues/assigned/kylem314) -- [Commit Page](https://github.com/yajatyadav/spring_portfolio/commits?author=kylem314)| [Profile](https://github.com/kylem314) |
